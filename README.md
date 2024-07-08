@@ -4,7 +4,7 @@ In this project, we'll be looking at a multinational restaurant aggregator and f
 # Objective/Purpose 
 Our objective is to analyze the restaurant performance. We take a look to find out why some restaurants are so popular while others aren't. Which areas generate the highest amounts of revenue? We analyze what kind of items are doing great with customers and what kind of products are failing. We'd also like to analyze the sales amount, quantitiy, and count of orders over time.
 
-Link to Project: [CuisineAnalysisVersion3](https://public.tableau.com/app/profile/sami.mozip/viz/Version3_17190811299450/Story1))
+Link to Project: [RestaurantAggregatorVersion3](https://public.tableau.com/app/profile/sami.mozip/viz/Version3_17190811299450/Story1))
 Sheet | Information |
 | ----------- |----------- |
 | Date Orders | displays count of orders over time |
